@@ -1,7 +1,7 @@
 • What runs JavaScript outside the browser ?
 what runs javascript outside browser is node.js .
 • Name 5 things Javascript can do.
-1.it can e used to building servers-side Applications(backend)
+1.it can be used to building servers-side Applications(backend)
 2.It is used in building mobile development.
 3.It is also used in desktop applications.
 4.To add more interactivity to websites.
